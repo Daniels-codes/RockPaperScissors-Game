@@ -10,7 +10,7 @@ and customize the look with multiple themes. Perfect for a quick game or flexing
 
 - **Game Modes**: Choose Easy (random computer moves) or Hard (strategic computer moves).
 - **Input Options**: Play with **R/S/P** keys or click rock, paper, scissors images.
-- **Themes**: Switch between 5 cool themes — *Default, Forest, Ocean, Sunset, Neon* (featuring a slick `#CCCC00` Theme button in Default! 🌟).
+- **Themes**: Switch between 5 cool themes — *Default, Forest, Ocean, Sunset, Neon* (featuring a slick `#1e1e2f` Theme button in Default! 🌟).
 - **Power-Up Mode**: Win **3 times in a row** to double your points! ⚡
 - **Leaderboard & Stats**: Track your top streaks and favorite choice (e.g., paper! 📜).
 - **Sounds & Animations**: Enjoy click sounds, win/lose/draw effects, and button shake animations.
@@ -103,7 +103,7 @@ If you encounter a ModuleNotFoundError for pygame or Pillow, ensure dependencies
 ---
 
 ## 📜 License
-This project is licensed under the MIT License — see the LICENSE file for details
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/Daniels-codes/RockPaperScissors-Game/blob/main/LICENSE) file for details
 
 ---
 
