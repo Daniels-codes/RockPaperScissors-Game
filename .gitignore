@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore generated files
+game_log.csv
+config.json
+achievements.json
+
 # C extensions
 *.so
 
